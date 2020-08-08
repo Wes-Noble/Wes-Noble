@@ -6,6 +6,9 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "Resume"
+      icon: fa-user
+      href: Wesley-Noble-CV.html
     - text: "GIS Work"
       icon: fa-globe
       href: geog176A.html

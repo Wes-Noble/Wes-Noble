@@ -1,0 +1,24 @@
+---
+title: "Wesley Noble"
+output: html_document
+---
+
+<center>
+# Education
+</center>
+
+- Carmel High School: **2017**
+- UC Santa Barbara: **2021**
+  - B.S. Physical Geography w/ Ocean Science Emphasis
+  - B.S. Environmental Studies
+
+<center>
+## Experience
+</center>
+- Saltwater Tank Intern, Monterey Bay Aquarium Research Institute: **2013 - 2014**
+- Construction Monitor, Santa Lucia Preserve: **2017**
+- Trail Maintenance, Santa Lucia Preserve: **2017**
+- Surf Instructor & Kayak Tour Guide, Cal Coast Adventures: **2018**
+- Assistant Manager, South Coast Deli Isla Vista: **2019 - Present**
+- Sustainability Analyst, Greeks-Go-Greek UCSB:  **2019 - Present**
+- Water Quality Surveyor, Isla Vista Surfrider Foundation: **2019 - Present**
