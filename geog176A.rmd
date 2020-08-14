@@ -20,3 +20,5 @@ In the summer of 2020 I took a fast paced 6-week GIS course based in R. I starte
 - We practiced our graphing and date presentation skills through ggplot() and how to interpret and present data so that our message is conveyed to the viewer in the manner we wish it to be
 
 
+
+
