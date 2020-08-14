@@ -13,7 +13,7 @@ In the summer of 2020 I took a fast paced 6-week GIS course based in R. I starte
 - I also learned the function of directories and where different files should be placed and kept
 - Overall, I enjoyed my first step in understanding code better
 
-##[Interpreting NY Times COVID Data](https://wes-noble.github.io/geog-176A-labs/lab-02.html)
+## [Interpreting NY Times COVID Data](https://wes-noble.github.io/geog-176A-labs/lab-02.html)
 
 - In this lab we took real time data from NY Times that is tracking current COVID cases across the US and interpreted it in different ways
 - We built on our understanding of data frames and object manipulation with dplyr verbs such as filter(), mutate(), and much more
