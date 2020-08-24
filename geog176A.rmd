@@ -19,6 +19,12 @@ In the summer of 2020 I took a fast paced 6-week GIS course based in R. I starte
 - We built on our understanding of data frames and object manipulation with dplyr verbs such as filter(), mutate(), and much more
 - We practiced our graphing and date presentation skills through ggplot() and how to interpret and present data so that our message is conveyed to the viewer in the manner we wish it to be
 
+## [Quantifying & Qualifying the US Border Zone](https://wes-noble.github.io/geog-176A-labs/lab-03.html)
+
+- Pulling raw data from online csv files mapping US state city, border, and state data, we joined and filtered multiple data frames to present tables and maps identifying cities furthest from the Canadian, Mexican, and United States borders
+- We learned how useful ggrepel and gghighlight can be in data representation while mapping in R
+- We developed our knowledge and skills in manipulating CRSs to be able to compare and relate spatial data
+- Lastly, in a real world application, we learned that Federal Agency's claim that people do not have basic constitutional rights protected by the Fourth Amendment (protecting Americans from random and arbitrary stops and searches) apply fully at our borders is depriving over 2/3 of Americans population from the Fourth Amendment's protection.
 
 
 
