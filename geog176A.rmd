@@ -26,5 +26,11 @@ In the summer of 2020 I took a fast paced 6-week GIS course based in R. I starte
 - We developed our knowledge and skills in manipulating CRSs to be able to compare and relate spatial data
 - Lastly, in a real world application, we learned that Federal Agency's claim that people do not have basic constitutional rights protected by the Fourth Amendment (protecting Americans from random and arbitrary stops and searches) apply fully at our borders is depriving over 2/3 of Americans population from the Fourth Amendment's protection.
 
+## [Mapping U.S. Dams w/ Tesselations & Point-in-Polygon Functions](https://wes-noble.github.io/geog-176A-labs/lab-04.html)
+
+- In this lab we honed in our ability to retrieve and modify raw data for spatial analysis
+- Being introduced to tessellations and coverages, our understanding of spatial representation grew and it relationship to the modifiable areal unit problem became clear with point-based analysis
+- We developed functions for future use of filtering to the US, plotting spatial features, and creating point-in-polygons
+- In the final part of this lab, through the use of Leaflet, we were able to identify large, at-risk flood control dams across the US and map them with a interactive plot
 
 
