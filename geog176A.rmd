@@ -5,13 +5,13 @@ title: "UCSB Geograhy"
 In the summer of 2020 I took a fast paced 6-week GIS course based in R. I started with no previous coding knowledge, but progressed into a confidant data analyst with R scripting skills. Here is a look into my development as a coder and a collection of my work from that course.
 
 
-## [First Attempt at a Repository](https://github.com/Wes-Noble/hello-world)
+## [Repo link for this website](https://github.com/Wes-Noble/Wes-Noble.github.io)
 
-- In this assignment I built my first online repository attached to my Github account
-- It includes a github repo for access to all the code.
-- I learned about basic access and editing of a README.md page
+- In this assignment I built my first website
+- It includes a github repo for access to all the code
+- I learned about basic access and editing of a README.md, site.yml, index.rmd and navigation settings
 - I also learned the function of directories and where different files should be placed and kept
-- Overall, I enjoyed my first step in understanding code better
+- Overall, I enjoyed my first step in being able to build a platform to display my work
 
 ## [Interpreting NY Times COVID Data](https://wes-noble.github.io/geog-176A-labs/lab-02.html)
 
