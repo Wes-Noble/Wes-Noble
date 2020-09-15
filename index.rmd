@@ -17,4 +17,11 @@ author: "Welcome to my page"
 I am currently finishing my senior year at UC Santa Barbara pursuing a Bachelor of Science in Environmental Studies & Physical Geography w/ a Ocean Science Emphasis. I am a first generation student in the Education Opportunity Program as well as a sustainability analyst for the Greeks-Go-Green organization, executive member and water quality surveyor for the Isla Vista Surfrider Foundation, member of the UCSB Free Diving Club, and assistant manager at the South Coast Deli Isla Vista location. 
 
 
-Outside of school and work, I volunteer at Rancho Del Pueblo CSA Organic farm in Ojai, Ca; enjoy surfing, diving, spearfishing, reading, running, traveling, and backpacking; and attempt to explore and try new things as frequent as possible. Coding is brand new to me, but I look forward to the possibilities it can supply for my educational and occupational development.
+Outside of school and work, I volunteer at Rancho Del Pueblo CSA Organic farm in Ojai, Ca; enjoy surfing, diving, spearfishing, reading, running, traveling, and backpacking; and attempt to explore and try new things as frequent as possible.
+
+
+Fairly new to programming, I am well orientated in gathering and working with big data to achieve small problem tasks. I can proficiently interpret and present data in a unbiased manner to well represent a data science approach to spacial analysis. Having developed a deep understanding of spatial relations and reasons, I can confidently formulate correct steps and functions to solve spatial questions without given instructions. Overall, I have just begun down the path of data science, but I am excited to further develop my skills and understanding. 
+
+
+<center>
+#### Wnoble@ucsb.edu -- [Github](https://github.com/Wes-Noble)
