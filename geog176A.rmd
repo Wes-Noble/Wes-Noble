@@ -4,7 +4,7 @@ title: "Geog 176A"
 
 <div class="mycontent">
 
-In the summer of 2020 I took a fast paced 6-week GIS course based in R. I started with no previous coding knowledge, but progressed into a confidant data analyst with R scripting skills. Here is a look into my development as a coder and a collection of my work from that course.
+In the summer of 2020 I took a fast paced 6-week GIS course based in R. I started with little coding knowledge, but progressed into a confidant data analyst with R scripting skills. Here is a look into my development as a coder and a collection of my work from that course.
 
 
 ## [Repo link for this website](https://github.com/Wes-Noble/Wes-Noble.github.io)

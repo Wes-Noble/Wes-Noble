@@ -11,13 +11,13 @@ output:
 
 <div class="mycontent">
 
-<br>
 
 <center>
 ![Iceland](/users/Noblex/github/Wes-Noble.github.io/imgs/IMG_1624 copy.JPG){width=500}
 </center>
 
-<br><br>
+
+---
 
 I am currently finishing my senior year at UC Santa Barbara pursuing a Bachelor of Science in Environmental Studies & Physical Geography w/ a Ocean Science Emphasis. I am a first generation student in the Education Opportunity Program as well as a sustainability analyst for the Greeks-Go-Green organization, executive member of the Isla Vista Surfrider Foundation, UCSB Free Diving Club member, and assistant manager at the South Coast Deli Isla Vista location. 
 
