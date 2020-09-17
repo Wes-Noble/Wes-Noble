@@ -9,7 +9,6 @@ output:
         before_body: header.html
 ---
 
-<div class="mycontent">
 
 
 <center>
