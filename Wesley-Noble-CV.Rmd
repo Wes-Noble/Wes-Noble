@@ -2,7 +2,7 @@
 title: "Wesley Noble"
 output: html_document
 ---
-Email: wnoble@ucsb.edu, Phone: 831-241-8303
+Email: wnoble@ucsb.edu Phone: 831-241-8303
 
 ---
 
