@@ -1,6 +1,8 @@
 ---
-title: "UCSB Geograhy"
+title: "Geog 176A"
 ---
+
+<div class="mycontent">
 
 In the summer of 2020 I took a fast paced 6-week GIS course based in R. I started with no previous coding knowledge, but progressed into a confidant data analyst with R scripting skills. Here is a look into my development as a coder and a collection of my work from that course.
 
@@ -29,23 +31,23 @@ In the summer of 2020 I took a fast paced 6-week GIS course based in R. I starte
 ## [Mapping U.S. Dams w/ Tesselations & Point-in-Polygon Functions](https://wes-noble.github.io/geog-176A-labs/lab-04.html)
 
 - In this lab we honed in our ability to retrieve and modify raw data for spatial analysis
-- Being introduced to tessellations and coverages, our understanding of spatial representation grew and it relationship to the modifiable areal unit problem became clear with point-based analysis
-- We developed functions for future use of filtering to the US, plotting spatial features, and creating point-in-polygons
+- Being introduced to tessellations and coverages, our understanding of spatial representation grew and it relationship to the modifiable areal unit problem became clear within point-based analysis
+- We developed functions for future use of filtering to the counties in the United States, plotting spatial features, and creating point-in-polygons
 - In the final part of this lab, through the use of Leaflet, we were able to identify large, at-risk flood control dams across the US and map them with a interactive plot
 
 ## [Rasters & Remote Sensing](https://wes-noble.github.io/geog-176A-labs/lab-05.html)
 
 - In this week's introduction to rasters and remote sensing, I developed a understanding of raster layers and their file type
-- While using a flood event in Palo, Iowa as an example flood, we delved into different normalized differences and how different uses of landsat data layers can be formulated to represent various spatial figures from wavelength frequency detection
+- While using a flood event in Palo, Iowa as an example flood, we delved into different normalized differences and how use of landsat data layers can be formulated to represent various spatial figures from wavelength frequency detection
 - Raster thresholding allowed us to identify flooding regions in a binary format
-- After completing multiple normalized different calculations and developing a k-means classification based on patterns in the data we were able to represent flooding probability based on the frequency of calculated flooding events from the normalized differences of the region.
+- After completing multiple normalized differential calculations and developing a k-means classification based on patterns we found in the data, we were able to represent flooding probability based on the frequency of calculated flooding events from the normalized differences of the region.
 
 ## [Flood Risk in Mission Creek: Past, Present, Future](https://wes-noble.github.io/geog-176A-labs/lab-06.html)
 
 - This lab utilized multiple skills we have gained from the time in this class 
 - We began by collecting and filtering the data we need for a flood risk assessment
-- Through the use of rasters and raster functions, we could formulate hillshade data from extracting the elevation of our studied region
-- After basing flood extent from past sensor data, we then modeled the flood of Mission Creek and the damage a 10m rise in the water level could do to local buildings
+- Through the use of rasters and raster functions, we formulated a hillshade raster from the whitebox library and extracting the elevation of our studied region
+- After modeling flood extent from past sensor data, we then predicted the flood of Mission Creek and the damage a 10m rise in the water level could do to local buildings
 
 
 

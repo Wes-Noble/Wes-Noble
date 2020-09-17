@@ -2,23 +2,68 @@
 title: "Wesley Noble"
 output: html_document
 ---
+Email: wnoble@ucsb.edu, Phone: 831-241-8303
 
-<center>
-# Education
-</center>
+---
 
-- Carmel High School: **2017**
-- UC Santa Barbara: **2021**
-  - B.S. Physical Geography w/ Ocean Science Emphasis
-  - B.S. Environmental Studies
 
-<center>
-## Experience
-</center>
-- Saltwater Tank Intern, Monterey Bay Aquarium Research Institute: **2013 - 2014**
-- Construction Monitor, Santa Lucia Preserve: **2017**
-- Trail Maintenance, Santa Lucia Preserve: **2017**
-- Surf Instructor & Kayak Tour Guide, Cal Coast Adventures: **2018**
-- Assistant Manager, South Coast Deli Isla Vista: **2019 - Present**
-- Sustainability Analyst, Greeks-Go-Greek UCSB:  **2019 - Present**
-- Water Quality Surveyor, Isla Vista Surfrider Foundation: **2019 - Present**
+### Summary
+Rising senior at the University of California, Santa Barbara within the Education Opportunity Program. Double majoring in Environmental Studies (BS) and Physical Geography w/ an emphasis in Ocean Science (BS) with an expected graduation date of June 2021. Highly motivated and active student and employee with experience in data analysis, species interaction, management, and conservancy projects. Currently, seeking to obtain research experience within an environmentally based data analysis field and eventually pursue a graduate degree in the subject.
+
+---
+
+### Education
+- University of California, Santa Barbara (Enrolled 2017)
+  - Double Majoring in Environmental Studies (BS) and Physical Geography w/ an emphasis in Ocean Science (BS)
+  - GPA 3.40 
+- Carmel High School (Graduated 2017) 
+  - GPA 4.44, ACT 33
+  
+---
+
+### Major Coursework
+Linear Algebra, Physics 6A-C, EEMB 2-3, CHEM 1A-C, MCDB 1A-B, Probability & Statistics (120A), Toxicology (120), GIS (176), GIS for Environmental Applications (154), Remote Sensing (115), Writing for Environmental Professions (107 EP), Chemical Global Change (141), Biogeochemistry (142), Ocean Carbon Cycling (166), Coastal Pollution (132), Meteorology (110), Stewardship Ethics (193 EE), Green Building (193 GB), World Agriculture (149) 
+
+---
+
+## Skills
+Experience working with R, Java Script, ArcMap, ArcPro, SAGA GIS, Word, Excel & PowerPoint
+
+---
+
+## Work Experience
+- South Coast Deli Isla Vista (May 2019 - Present)
+  - Assistant Manager. Monitor store inventory & utilities. Coordinate employee scheduling and training. Work register receiving in person & catering orders. Helped manage transition to COVID working environment.
+- UCSB Greeks-Go-Green (October 2019 - Present)
+  - Sustainability Analyst. Conducted flow gauge analysis of chapter houses. Implemented low-flow shower heads and faucet nozzles. Helped start recycling initiatives in multiple houses. Contributed to the outreach and coordination of the Eco-Friendly Market put on by GGG annually.
+- Cal Coast Adventures (August 2018 - May 2019)
+  - Surf Instructor & Kayak Tour Guide. Lead SUP and kayak tours around the Santa Barbara harbor. Gave personal surf lessons to individuals and groups. Responsible for renting out aquatic equipment at the West Beach station.
+- Santa Lucia Preserve (June 2017 - August 2018)
+  - Project Monitor. Located and satellite mapped over 900 At&T and PG&E electrical and power utility boxes throughout 20,000 acres of land. Monitored and helped the repiping of conduit and fiber-optic lining
+  - Trail Maintenance. Maintained over 100 miles of open trails throughout the conservancy area of the preserve. Created 10+ miles of new trail in the backcountry of the conservancy area.
+- Monterey Bay Aquarium Research Institute (MBARI) (June 2013-August 2014)
+  - Research Science Intern. Assistant to marine research scientist, Jim Barry. Contributed in moving & monitoring sea creatures among salt water tanks
+
+---
+
+## Achievements and Awards
+- Dean’s List (x 4)
+- LEED Green Associate
+- Seymour Memorial Award - California Scholarship Federation (2017)
+- High School Valedictorian (2017)
+
+---
+
+## Service Experiences
+- Rancho Del Pueblo Farm
+  - Weekly volunteer for Community Supported Agriculture organic farm in Ojai, Ca. Contribute in harvesting, washing, and distribution of subscription boxes for local residents.
+- Amazing Day Foundation (2019)
+  - Helped coordinate Walk for Life march at UCSB to commemorate the Amazing Day Foundation and its message to raise awareness for suicide prevention.
+- Your Children’s Trees
+  - Participated in the ongoing, environmental revival within Goleta by planting young trees and plants on public land.
+
+---
+
+## Activities
+Data Science Club, Isla Vista Surfrider Foundation member, UCSB Education Opportunity Program, Sigma Pi Fraternity, UCSB Free Diving Club, Surfing, Spearfishing, Backpacking, Intramural Basketball
+

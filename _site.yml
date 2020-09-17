@@ -9,9 +9,11 @@ navbar:
     - text: "Resume"
       icon: fa-user
       href: Wesley-Noble-CV.html
-    - text: "GIS Work"
+    - text: "GIS Course Work"
       icon: fa-globe
       href: geog176A.html
 output:
   html_document:
     theme: yeti
+    includes:
+      after_body: footer.html

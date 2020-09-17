@@ -1,27 +1,30 @@
 ---
-title: "Wesley Noble"
-author: "Welcome to my page"
+title: "<center><div class='mytitle'>Wesley Noble</div></center>"
+author: "<center><div class='mysubtitle'>See code for this website on [github](https://github.com/holtzy/R-Markdown-Parallax)</div></center>"
+output:
+  html_document:
+      css: style.css
+      toc: FALSE
+      includes: 
+        before_body: header.html
 ---
 
+<div class="mycontent">
 
-<center>
-## A Little About Myself
-</center>
-
+<br>
 
 <center>
 ![Iceland](/users/Noblex/github/Wes-Noble.github.io/imgs/IMG_1624 copy.JPG){width=500}
 </center>
 
+<br><br>
 
-I am currently finishing my senior year at UC Santa Barbara pursuing a Bachelor of Science in Environmental Studies & Physical Geography w/ a Ocean Science Emphasis. I am a first generation student in the Education Opportunity Program as well as a sustainability analyst for the Greeks-Go-Green organization, executive member and water quality surveyor for the Isla Vista Surfrider Foundation, member of the UCSB Free Diving Club, and assistant manager at the South Coast Deli Isla Vista location. 
+I am currently finishing my senior year at UC Santa Barbara pursuing a Bachelor of Science in Environmental Studies & Physical Geography w/ a Ocean Science Emphasis. I am a first generation student in the Education Opportunity Program as well as a sustainability analyst for the Greeks-Go-Green organization, executive member of the Isla Vista Surfrider Foundation, UCSB Free Diving Club member, and assistant manager at the South Coast Deli Isla Vista location. 
 
 
 Outside of school and work, I volunteer at Rancho Del Pueblo CSA Organic farm in Ojai, Ca; enjoy surfing, diving, spearfishing, reading, running, traveling, and backpacking; and attempt to explore and try new things as frequent as possible.
 
 
-Fairly new to programming, I am well orientated in gathering and working with big data to achieve small problem tasks. I can proficiently interpret and present data in a unbiased manner to well represent a data science approach to spacial analysis. Having developed a deep understanding of spatial relations and reasons, I can confidently formulate correct steps and functions to solve spatial questions without given instructions. Overall, I have just begun down the path of data science, but I am excited to further develop my skills and understanding. 
+I am well orientated in gathering and working with big data to achieve small problem tasks. I can proficiently interpret and present data in a unbiased manner to well represent a data science approach to spacial analysis. Having developed a deep understanding of spatial relations and reasons, I can confidently formulate correct steps and functions to solve spatial questions without given instructions. Overall, I have just begun down the path of data science, but I am excited to further develop my skills and understanding. 
 
 
-<center>
-#### Wnoble@ucsb.edu -- [Github](https://github.com/Wes-Noble)
