@@ -1,6 +1,9 @@
 ---
-title: "Geog 176A"
 ---
+
+<br>
+
+# Geog 176
 
 <div class="mycontent">
 
@@ -49,5 +52,17 @@ In the summer of 2020 I took a fast paced 6-week GIS course based in R. I starte
 - Through the use of rasters and raster functions, we formulated a hillshade raster from the whitebox library and extracting the elevation of our studied region
 - After modeling flood extent from past sensor data, we then predicted the flood of Mission Creek and the damage a 10m rise in the water level could do to local buildings
 
+---
 
+<br>
+
+# ENVS 154
+
+This course was my introduction to spatial analysis and any type of programming. Although we touched on some coding with ArcPi, the majority of this class was conducted in ArcMap utilizing their spatial software programs.
+
+## [Jatropha Curcas Land Suitability Assesment, Nicuragua](https://storymaps.arcgis.com/stories/e9a835af71e74101bab0e1b572f115d6)
+
+- For the final project of this course, my team conducted a land suitability assessment for Jatropha Curcas cultivation in Nicuragua
+- This project was conducted in ArcGIS and ArcMap
+- Data was retrieved from open sourced international weather, land use, and elevation databases
 
