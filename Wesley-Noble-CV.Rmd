@@ -8,31 +8,35 @@ Email: wnoble@ucsb.edu Phone: 831-241-8303
 
 
 ### Summary
-Rising senior at the University of California, Santa Barbara within the Education Opportunity Program. Double majoring in Environmental Studies (BS) and Physical Geography w/ an emphasis in Ocean Science (BS) with an expected graduation date of June 2021. Highly motivated and active student and employee with experience in data analysis, species interaction, management, and conservancy projects. Currently, seeking to obtain research experience within an environmentally based data analysis field and eventually pursue a graduate degree in the subject.
+Rising senior at the University of California, Santa Barbara within the Education Opportunity Program. Double majoring in Environmental Studies (BS) and Physical Geography w/ an emphasis in Ocean Science (BS) with an expected graduation date of June 2021. Highly motivated and active student and employee with ample experience in spatial and data analysis, environmental planning, project monitoring, business sustainability and conservancy projects. 
 
 ---
 
 ### Education
 - University of California, Santa Barbara (Enrolled 2017)
   - Double Majoring in Environmental Studies (BS) and Physical Geography w/ an emphasis in Ocean Science (BS)
-  - GPA 3.40 
+  - GPA 3.44 
 - Carmel High School (Graduated 2017) 
   - GPA 4.44, ACT 33
   
 ---
 
 ### Major Coursework
-Linear Algebra, Physics 6A-C, EEMB 2-3, CHEM 1A-C, MCDB 1A-B, Probability & Statistics (120A), Toxicology (120), GIS (176), GIS for Environmental Applications (154), Remote Sensing (115), Writing for Environmental Professions (107 EP), Chemical Global Change (141), Biogeochemistry (142), Ocean Carbon Cycling (166), Coastal Pollution (132), Meteorology (110), Stewardship Ethics (193 EE), Green Building (193 GB), World Agriculture (149) 
+Linear Algebra, Physics, Ecology Evolution & Marine Biology, Chemistry, Molecular Cellular and Developmental Biology, Probability & Statistics, Toxicology, GIS, GIS for Environmental Applications, Remote Sensing, Writing for Environmental Professions, Economics Chemical Global Change, Biogeochemistry, Ocean Carbon Cycling, Oceanography, Ocean Circulation, Coastal Pollution, Meteorology, Stewardship Ethics, Sustainable Agriculture, Green Building 
 
 ---
 
 ## Skills
-Experience working with R, Java Script, ArcMap, ArcPro, SAGA GIS, Word, Excel & PowerPoint
+Experience working with R, Python, Java Script, ArcMap, ArcGIS Pro, QGIS, Word, Excel & PowerPoint
 
 ---
 
 ## Work Experience
-- South Coast Deli Isla Vista (May 2019 - Present)
+- Santa Barbara Channel Keeper (October 2020 - Present)
+  - MPA Watch Intern. Conduct weekly surveys of marine protected areas in the greater Goleta and Gaviota Coast area. Coordinate and contribute to volunteer information sessions. Perform simple data entry to our online platform for volunteer and personal surveys. Conduct quality assurance checks of other employees survey entries. 
+- HAND Raster Modeling Design (August 2020 - Present)
+  - PhD Student Research Assistant. Contributing in the development and experiment of Height Above Nearest Drainage (HAND) raster modeling. Reassessing the spatial resolution for the most accurate representation of 100-year flood events from the National Water Center’s stream flood gauge database.
+- South Coast Deli Isla Vista (May 2019 - October 2020)
   - Assistant Manager. Monitor store inventory & utilities. Coordinate employee scheduling and training. Work register receiving in person & catering orders. Helped manage transition to COVID working environment.
 - UCSB Greeks-Go-Green (October 2019 - Present)
   - Sustainability Analyst. Conducted flow gauge analysis of chapter houses. Implemented low-flow shower heads and faucet nozzles. Helped start recycling initiatives in multiple houses. Contributed to the outreach and coordination of the Eco-Friendly Market put on by GGG annually.
@@ -47,7 +51,6 @@ Experience working with R, Java Script, ArcMap, ArcPro, SAGA GIS, Word, Excel & 
 ---
 
 ## Achievements and Awards
-- Dean’s List (x 4)
 - LEED Green Associate
 - Seymour Memorial Award - California Scholarship Federation (2017)
 - High School Valedictorian (2017)
@@ -65,5 +68,5 @@ Experience working with R, Java Script, ArcMap, ArcPro, SAGA GIS, Word, Excel & 
 ---
 
 ## Activities
-Data Science Club, Isla Vista Surfrider Foundation member, UCSB Education Opportunity Program, Sigma Pi Fraternity, UCSB Free Diving Club, Surfing, Spearfishing, Backpacking, Intramural Basketball
+Isla Vista Surfrider Foundation member, UCSB Education Opportunity Program, UCSB Free Diving Club, Surfing, Spearfishing, Backpacking, Intramural Basketball
 

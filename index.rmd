@@ -1,12 +1,10 @@
 ---
 title: "<center><div class='mytitle'>Wesley Noble</div></center>"
-author: "<center><div class='mysubtitle'>See code for this website on [github](https://github.com/holtzy/R-Markdown-Parallax)</div></center>"
 output:
   html_document:
       css: style.css
       toc: FALSE
-      includes: 
-        before_body: header.html
+     
 ---
 
 
@@ -18,12 +16,12 @@ output:
 
 ---
 
-I am currently finishing my senior year at UC Santa Barbara pursuing a Bachelor of Science in Environmental Studies & Physical Geography w/ a Ocean Science Emphasis. I am a first generation student in the Education Opportunity Program as well as a sustainability analyst for the Greeks-Go-Green organization, member of the Isla Vista Surfrider Foundation, UCSB Free Diving Club, and assistant manager at the South Coast Deli Isla Vista location. 
+I am currently finishing my senior year at UC Santa Barbara pursuing a Bachelor of Science in Environmental Studies & Physical Geography w/ a Ocean Science Emphasis. I am a first generation student in the Education Opportunity Program as well as a MPA Watch intern for Santa Barbara Channel Keeper and a research assistant for a PhD candidate in the Geography department. In addition to my current academic and professional positions, I am a member of the Greeks-Go-Green on campus organization, Isla Vista Surfrider Foundation, UCSB Free Diving Club, and recently ended work as the assistant manager of South Coast Deli, Isla Vista after the location closed due to COVID. 
+
+Outside of my school and work related involvements, I volunteer at Rancho Del Pueblo CSA Organic farm in Ojai and enjoy surfing, diving, spearfishing, reading, running, traveling, and backpacking.
 
 
-Outside of school and work, I volunteer at Rancho Del Pueblo CSA Organic farm in Ojai, Ca; enjoy surfing, diving, spearfishing, reading, running, traveling, and backpacking; and attempt to explore and try new things as frequent as possible.
+By virtue of my research experiences and academic career, I have gained a confident understanding and working knowledge of programming languages such as R, Python, and Javascript and geospatial software such as ArcGIS Pro, Google Earth Engine, and QGIS. I have developed a deep understanding and proficiency in the spatial data analysis processes, working with large datasets, cartographic skills, and base structure of geospatial software systems. Most of this software background was gained within my geography major, but my second major, environmental studies, has informed and challenged me in new sustainable ideas, problems, business strategies, and concepts. I hope to combine the skills and knowledge I have gain between these two majors to make a positive impact in a business and our world. 
 
-
-I am well orientated in gathering and working with big data to achieve small problem tasks. I can proficiently interpret and present data in a unbiased manner to well represent a data science approach to spacial analysis. Having developed a deep understanding of spatial relations and reasons, I can confidently formulate correct steps and functions to solve spatial questions without given instructions. Overall, I have just begun down the path of data science, but I am excited to further develop my skills and understanding. 
 
 

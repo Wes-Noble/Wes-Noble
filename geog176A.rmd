@@ -10,47 +10,39 @@
 In the summer of 2020 I took a fast paced 6-week GIS course based in R. I started with little coding knowledge, but progressed into a confidant data analyst with R scripting skills. Here is a look into my development as a coder and a collection of my work from that course.
 
 
-## [Repo link for this website](https://github.com/Wes-Noble/Wes-Noble.github.io)
-
-- In this assignment I built my first website
-- It includes a github repo for access to all the code
-- I learned about basic access and editing of a README.md, site.yml, index.rmd and navigation settings
-- I also learned the function of directories and where different files should be placed and kept
-- Overall, I enjoyed my first step in being able to build a platform to display my work
-
 ## [Interpreting NY Times COVID Data](https://wes-noble.github.io/geog-176A-labs/lab-02.html)
 
-- In this lab we took real time data from NY Times that is tracking current COVID cases across the US and interpreted it in different ways
-- We built on our understanding of data frames and object manipulation with dplyr verbs such as filter(), mutate(), and much more
-- We practiced our graphing and date presentation skills through ggplot() and how to interpret and present data so that our message is conveyed to the viewer in the manner we wish it to be
+- I took real time COVID data from across the US posted by the NY Times and interpreted it to emphasize different features of the viruses spread and impact.
+- I built upon my understanding of data frames and object manipulation with dplyr verbs such as filter(), mutate(), and much more
+- I began modifying graphical and temporal visualization techniques through ggplot() and experimented with how to interpret and present data so that a message is conveyed to the viewer in an unbiased manner
 
 ## [Quantifying & Qualifying the US Border Zone](https://wes-noble.github.io/geog-176A-labs/lab-03.html)
 
-- Pulling raw data from online csv files mapping US state city, border, and state data, we joined and filtered multiple data frames to present tables and maps identifying cities furthest from the Canadian, Mexican, and United States borders
-- We learned how useful ggrepel and gghighlight can be in data representation while mapping in R
-- We developed our knowledge and skills in manipulating CRSs to be able to compare and relate spatial data
-- Lastly, in a real world application, we learned that Federal Agency's claim that people do not have basic constitutional rights protected by the Fourth Amendment (protecting Americans from random and arbitrary stops and searches) apply fully at our borders is depriving over 2/3 of Americans population from the Fourth Amendment's protection.
+- Pulling raw data from online csv files mapping US state city, border, and state data, I joined and filtered multiple data frames to present tables and maps identifying cities furthest from the Canadian, Mexican, and United States borders
+- I learned how useful ggrepel and gghighlight can be in data representation while mapping in R
+- I developed a more in depth knowledge and skills in manipulating CRSs to be able to compare and relate spatial data
+- Lastly, in a real world application, I learned that Federal Agency's claim that people do not have basic constitutional rights protected by the Fourth Amendment (protecting Americans from random and arbitrary stops and searches) apply fully at our borders is depriving almost 2/3 of Americans population from the Fourth Amendment's protection.
 
 ## [Mapping U.S. Dams w/ Tesselations & Point-in-Polygon Functions](https://wes-noble.github.io/geog-176A-labs/lab-04.html)
 
-- In this lab we honed in our ability to retrieve and modify raw data for spatial analysis
-- Being introduced to tessellations and coverages, our understanding of spatial representation grew and it relationship to the modifiable areal unit problem became clear within point-based analysis
-- We developed functions for future use of filtering to the counties in the United States, plotting spatial features, and creating point-in-polygons
-- In the final part of this lab, through the use of Leaflet, we were able to identify large, at-risk flood control dams across the US and map them with a interactive plot
+- I honed in my ability to retrieve and modify raw data for spatial analysis
+- Being introduced to tessellations and coverages, my understanding of spatial representation grew. TINs relationship to the modifiable areal unit problem became clear within point-based analysis
+- I developed functions for future use of filtering to the counties in the United States, plotting spatial features, and creating point-in-polygons
+- In the final part of this lab, through the use of Leaflet, I was able to identify large, at-risk flood control dams across the US and map them with a interactive plot
 
 ## [Rasters & Remote Sensing](https://wes-noble.github.io/geog-176A-labs/lab-05.html)
 
 - In this week's introduction to rasters and remote sensing, I developed a understanding of raster layers and their file type
-- While using a flood event in Palo, Iowa as an example flood, we delved into different normalized differences and how use of landsat data layers can be formulated to represent various spatial figures from wavelength frequency detection
-- Raster thresholding allowed us to identify flooding regions in a binary format
-- After completing multiple normalized differential calculations and developing a k-means classification based on patterns we found in the data, we were able to represent flooding probability based on the frequency of calculated flooding events from the normalized differences of the region.
+- While using a flood event in Palo, Iowa as an example flood, I delved into different normalized differences and how use of Landsat data layers can be formulated to represent various spatial features from wavelength frequency detection
+- Raster thresholding allowed me to identify flooding regions in a binary format
+- After completing multiple normalized differential calculations and developing a k-means classification based on patterns I found in the data, I was able to represent flooding probability based on the frequency of calculated flooding events from the normalized differences of the region.
 
 ## [Flood Risk in Mission Creek: Past, Present, Future](https://wes-noble.github.io/geog-176A-labs/lab-06.html)
 
-- This lab utilized multiple skills we have gained from the time in this class 
-- We began by collecting and filtering the data we need for a flood risk assessment
-- Through the use of rasters and raster functions, we formulated a hillshade raster from the whitebox library and extracting the elevation of our studied region
-- After modeling flood extent from past sensor data, we then predicted the flood of Mission Creek and the damage a 10m rise in the water level could do to local buildings
+- This project utilized many of the skills I have gained so far while working with spatial datasets in R
+- I began by collecting and filtering raw data I needed for a flood risk assessment
+- Through the use of rasters and raster functions, I formulated a hillshade raster from the whitebox library found on github and extracted the elevation of our studied region
+- After modeling flood extent from past sensor data, I then predicted the flood of Mission Creek and the damage a 10m rise in the water level could do to local buildings
 
 ---
 
@@ -58,7 +50,7 @@ In the summer of 2020 I took a fast paced 6-week GIS course based in R. I starte
 
 # ENVS 154
 
-This course was my introduction to spatial analysis and any type of programming. Although we touched on some coding with ArcPi, the majority of this class was conducted in ArcMap utilizing their spatial software programs.
+This course was my introduction to spatial analysis and any type of programming. Although we touched on some coding with ArcPi, the majority of this class was conducted in ArcMap.
 
 ## [Jatropha Curcas Land Suitability Assesment, Nicuragua](https://storymaps.arcgis.com/stories/e9a835af71e74101bab0e1b572f115d6)
 
